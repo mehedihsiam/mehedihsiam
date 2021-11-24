@@ -19,7 +19,7 @@ Skills: Node JS / React / MongoDB / Firebase / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mehedihsiam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedihsiam&show_icons=true)  
