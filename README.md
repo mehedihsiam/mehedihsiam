@@ -12,7 +12,7 @@
 ## About Me
 
 
-I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I enjoy working with include ReactJS, JavaScript as well as Node JS.
+I’m a Web developer who is passionate about working with latest Web Technologies and make error-free websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I enjoy working with include ReactJS, JavaScript as well as Node JS.
 
 ## Skills: 
 * Node JS
