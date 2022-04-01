@@ -3,10 +3,12 @@
 ### Hi there 👋, I'm Mehedi H Siam
 #### Web Developer || React || Node || Express || MongoDB || MySQL
 
+## About Me
+
 
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I enjoy working with include ReactJS, JavaScript as well as Node JS.
 
-### Skills: 
+## Skills: 
 * Node JS
 * Expess JS 
 * React 
@@ -21,10 +23,6 @@ I’m a Web developer who is passionate about making error-free websites with 10
 * Material UI 
 * Tailwind CSS
 
-
-- 🌱 I’m currently learning Web Technologies
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: Facebook or LinkedIn 
 
 
 
