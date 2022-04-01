@@ -32,7 +32,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 
 ## Contact Info
 
-[LinkedIn](https://www.linkedin.com/in/mehedihsiam/)
+#### [LinkedIn](https://www.linkedin.com/in/mehedihsiam/) || [Twitter](https://twitter.com/mehedihsiam) || [Stack Overflow](https://stackoverflow.com/users/16839227)
 
 
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedihsiam) 
