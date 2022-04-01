@@ -21,7 +21,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 * Material UI 
 * Tailwind CSS
 
-![Profile views](https://gpvc.arturio.dev/mehedihsiam) 
+[Profile views](https://gpvc.arturio.dev/mehedihsiam) 
 
 
 - 🌱 I’m currently learning Web Technologies
@@ -32,7 +32,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 
 ## Contact Info
 
-![LinkedIn](https://www.linkedin.com/in/mehedihsiam/) || ![Email](mehedisiam0022@gmail.com)
+![LinkedIn](https://www.linkedin.com/in/mehedihsiam/)
 
 
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedihsiam) 
