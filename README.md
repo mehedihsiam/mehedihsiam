@@ -21,7 +21,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 * Material UI 
 * Tailwind CSS
 
-![Profile views](https://gpvc.arturio.dev/mehedihsiam) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehedihsiam)
+![Profile views](https://gpvc.arturio.dev/mehedihsiam) 
 
 
 - 🌱 I’m currently learning Web Technologies
@@ -38,7 +38,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehedihsiam)
 
 
 
