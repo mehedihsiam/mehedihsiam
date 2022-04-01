@@ -21,8 +21,6 @@ I’m a Web developer who is passionate about making error-free websites with 10
 * Material UI 
 * Tailwind CSS
 
-![Profile views](https://gpvc.arturio.dev/mehedihsiam) 
-
 
 - 🌱 I’m currently learning Web Technologies
 - 💬 Ask me about Web Development 
@@ -37,12 +35,12 @@ I’m a Web developer who is passionate about making error-free websites with 10
 *  **Mobile:** +8801953387415
 
 
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedihsiam) 
+<!-- * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedihsiam) 
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedihsiam/) 
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mehedihsiam537)  
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedihsiam/)  
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mehedihsiam)  
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16839227)  
+* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16839227)   -->
 
 
 
