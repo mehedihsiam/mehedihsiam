@@ -3,6 +3,12 @@
 ### Hi there 👋, I'm Mehedi H Siam
 #### Web Developer || React || Node || Express || MongoDB || MySQL
 
+
+- 🌱 I’m currently learning Web Technologies
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: Facebook or LinkedIn 
+
+
 ## About Me
 
 
