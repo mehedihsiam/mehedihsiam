@@ -8,7 +8,20 @@ I’m a Web developer who is passionate about making error-free websites with 10
 
 ![Profile views](https://gpvc.arturio.dev/mehedihsiam)
 
-Skills: Node JS / Expess JS / React / MongoDB / MySQL / Sequelize / Firebase / JS / HTML / CSS / Bootstrap / Material UI / Tailwind CSS
+### Skills: 
+* Node JS
+* Expess JS 
+* React 
+* MongoDB 
+* MySQL 
+* Sequelize 
+* Firebase 
+* JavaScript 
+* HTML 
+* CSS 
+* Bootstrap 
+* Material UI 
+* Tailwind CSS
 
 - 🌱 I’m currently learning Node JS 
 - 💬 Ask me about Web Development 
