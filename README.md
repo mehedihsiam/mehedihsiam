@@ -40,8 +40,6 @@ I’m a Web developer who is passionate about making error-free websites with 10
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mehedihsiam)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
