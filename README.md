@@ -42,7 +42,7 @@ I’m a Web developer who is passionate about making error-free websites with 10
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/mehedihsiam) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
