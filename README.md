@@ -1,10 +1,10 @@
-![Web Developer](https://i.ibb.co/jyBxXBp/Resume-Web-Developer-UIUX-Designer-Presentation.jpg)
+![Web Developer](https://i.ibb.co/xjWbGK0/Personal-Cover-Photo.png)
 
 ### Hi there 👋, I'm Mehedi H Siam
-#### Web Developer || React || Node || Express || MongoDB || MySQL
+#### Co-Founder & Software Developer @Softlofy
 
 
-- 🌱 I’m currently learning Web Technologies
+- 🌱 I’m currently Working to make a good impact on human lives
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Facebook or LinkedIn 
 
