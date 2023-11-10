@@ -1,34 +1,17 @@
 ![Web Developer](https://i.ibb.co/x6b67Qx/Personal-Cover-Photo-1.png)
 
-### Hi there 👋, I'm Mehedi H Siam
+### Hi there 👋, I'm Mehedi Hasan Siam
 #### Co-Founder & Software Developer @Softlofy
 
 
 - 🌱 I’m currently Working to make a good impact on human lives
-- 💬 Ask me about Web Development 
 - 📫 How to reach me: Facebook or LinkedIn 
 
 
 ## About Me
 
 
-I’m a Web developer who is passionate about working with latest Web Technologies and make error-free websites. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I enjoy working with include ReactJS, JavaScript as well as Node JS.
-
-## Skills: 
-* Node JS
-* Expess JS 
-* React 
-* MongoDB 
-* MySQL 
-* Sequelize 
-* Firebase 
-* JavaScript 
-* HTML 
-* CSS 
-* Bootstrap 
-* Material UI 
-* Tailwind CSS
-
+I’m a Software Developer passionate about working with the latest Programming Technologies and making error-free solutions. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind.
 
 
 
@@ -38,13 +21,6 @@ I’m a Web developer who is passionate about working with latest Web Technologi
 *  **Email:** mehedisiam0022@gmail.com
 *  **Mobile:** +8801953387415
 
-
-<!-- * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedihsiam) 
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedihsiam/) 
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mehedihsiam537)  
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mehedihsiam/)  
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mehedihsiam)  
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16839227)   -->
 
 
 ## Overview
@@ -60,4 +36,4 @@ I’m a Web developer who is passionate about working with latest Web Technologi
 
 
 
-<!--   ![GitHub metrics](https://metrics.lecoq.io/mehedihsiam)  -->
+  ![GitHub metrics](https://metrics.lecoq.io/mehedihsiam) 
