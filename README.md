@@ -1,10 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;This+is+Mehedi+Hasan+Siam;A+demand+stack+software+developer😊)](https://git.io/typing-svg)
 
-## Software Developer @MoveX Health
+## Software Developer
 
 
-- 🌱 I’m currently Working to make a good impact on human lives
-- 📫 How to reach me: Facebook or LinkedIn 
+- 🔭 Focusing on Demand Stack Development (Learning technologies based on Project requirements).😎
+- 🌱 Trying to become an expert in Fullstack development ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 👨‍🏫 Teaching programming is my strength
+- 📰 Reading tech documentation is boring stuff, yet fruitful.
+- 🎯 2025 Goals:
+  * Learn Cloud on GCP.
+  * Learning Native Android Development
+- ⚡ Fun fact: Equal is Not Always Equal in JavaScript.🤣
 
 
 ## About Me
