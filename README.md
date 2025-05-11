@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+This+is+Mehedi+Siam;A+demand+stack😊+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;This+is+Mehedi+Hasan+Siam;A+demand+stack+software+developer😊)](https://git.io/typing-svg)
 
-### Hi there 👋, This is Mehedi Hasan Siam
-#### Software Developer @MoveX Health
+## Software Developer @MoveX Health
 
 
 - 🌱 I’m currently Working to make a good impact on human lives
@@ -10,7 +9,7 @@
 
 ## About Me
 
-I have been working in the Software Development field since February 2022 and during this time I have worked for an awesome company. Then I thought why not start my own agency to work with people? That's why I started [Softlofy](https://www.softlofy.com) with my business partner.
+I'm a builder of digital experiences—crafting sleek web and mobile apps using tools like React, TypeScript, and React Native. I’m fueled by curiosity and a love for learning, always diving into new technologies and turning ideas into interactive, meaningful products. For me, coding is more than a skill—it’s a playground where I learn by building, break things to understand them, and take on challenges that sharpen my edge.
 
 From the beginning of my journey, I always tried to work in a stack-boundary-less way. And still, I am trying to learn new technologies and implement them.
 
