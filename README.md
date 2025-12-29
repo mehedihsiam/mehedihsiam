@@ -8,9 +8,6 @@
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 👨‍🏫 Teaching programming is my strength
 - 📰 Reading tech documentation is boring stuff, yet fruitful.
-- 🎯 2025 Goals:
-  * Learn Cloud on GCP.
-  * Learning Native Android Development
 - ⚡ Fun fact: Equal is Not Always Equal in JavaScript.🤣
 
 
